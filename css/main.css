@@ -1,0 +1,39 @@
+body {
+    background: rgb(79, 209, 248);
+}
+h2:hover {
+    color:red;
+}
+h3:active {
+    color:brown;
+}
+.subtitle {
+    color: rgb(183, 145, 218);
+}
+#title {
+    color: blueviolet;
+}
+h1 {background-color: yellow;}
+h1 {background-color: red;}
+
+li:first-child {
+    color:red;
+}
+li:nth-child(2) {
+    color:green;
+}
+li:last-child {
+    color: blue;
+}
+li:only-child {
+    color: pink;
+}
+td:first-child {
+    color: white;
+}
+#google-link:link {
+    color:white;
+}
+#google-link:visited {
+    color:purple;
+}
